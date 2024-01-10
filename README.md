@@ -1,6 +1,7 @@
 # maabedelhay-study_2023-2024_net-os-admin
 
 ссылка на плейлист https://rutube.ru/plst/341441
+(ссылка работает)
 
 ## Лабы
 #### lab01
