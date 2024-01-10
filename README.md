@@ -2,8 +2,6 @@
 
 ссылка на плейлист https://rutube.ru/plst/341441
 
-
-
 ## Лабы
 #### lab01
 https://rutube.ru/video/d47b9b5561672839bec8678f8e3180d6/
@@ -53,7 +51,7 @@ https://rutube.ru/video/78dcf4083dbff3a300e1a444e96799b9/
 
 #### lab15-16-13
 **Хронология видео:**
-	lab15 00:00-15:14
-	lab16 15:14-29:10
-	lab13 29:10-
+lab15 00:00-15:14
+lab16 15:14-29:10
+lab13 29:10-
 https://rutube.ru/video/b85f4114ba39b16683bc0f9ae7a2ab2f/
